@@ -12,3 +12,14 @@
 ~~지향언어
 객체지향언어 - 객체 속성 행위로 이루어진 언어
 ~~지향언어
+
+#include <stdio.h>
+
+int main(int argc, char** argv) {
+    printf("Hello 이천표\n");
+printf("나는 키가 크다\n");
+printf("나는 먹는걸 좋아한다\n");
+printf("나는 코딩공부를 한다\n");
+printf("나는 안경을 썻다\n");
+
+}
